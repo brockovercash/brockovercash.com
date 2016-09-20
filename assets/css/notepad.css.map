@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,UAAW;EACT,gBAAgB,EAAE,IAAI;EACtB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,GAAG;EACnB,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,IAAI;EAEZ,sBAAY;IACV,UAAU,EAAE,IAAI;EAGlB,uBAAa;IACX,aAAa,EAAE,CAAC",
-"sources": ["../sass/notepad.scss"],
-"names": [],
-"file": "notepad.css"
-}
