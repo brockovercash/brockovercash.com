@@ -1,0 +1,8 @@
+brockovercash.com {
+    tls brock.overcash@gmail.com
+    gzip
+    ext .html
+    errors {
+        404 index.html
+    }
+}
